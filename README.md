@@ -429,13 +429,11 @@ This project is created for **educational and project development purposes**.
 
 You are free to modify and improve it according to your requirements.
 
----
 
 ## 👩‍💻 Author
 
 **Aastha Waghade**
 
----
 
 ⭐ If you find this project useful, consider giving the repository a **star**!
 
